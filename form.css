@@ -1,0 +1,175 @@
+*{
+    margin: 0px;
+
+}
+body{
+    background-color: #9BCD0A;
+}
+
+textarea{
+    width: 1215px;
+    height: 50px;
+}
+
+.rer{
+    position: relative;
+    left: 800px;
+    border: 1px solid #000;
+    border-radius: 50px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    width: 290px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 5px;
+}
+fieldset{
+    border: 1px solid #fff;
+    border-radius: 5px;
+    width: 50%;
+    height: 50%;
+    /* margin-right: 100px;
+    margin-left: 100px; */
+}
+
+.sir{
+    width: 1220px;
+}
+
+.cer{
+    width: 2000;
+    position: relative;
+    left: 10px;
+  
+}
+
+.car{
+    display: flex;
+    flex-direction:row;
+}
+
+/* label{
+    position: relative;
+    left: 20px;
+} */
+
+input{
+    position: relative;
+    left: 20px;
+}
+
+.lil{
+    text-align: center;
+    /* opacity: 0.6; */
+    background-color: rgb(240, 225, 225,0.61);
+    color: #000;
+    margin: auto;
+    width: 1200px;
+    padding: 10px;
+    text-shadow: 2px -2px 3px white;
+}
+
+.rir{
+    width: 400px;
+    position: relative;
+    left: 52px;
+}
+
+.dir{
+    width: 410px;
+    position: relative;
+    left: 72px;
+}
+
+.tir{
+    width: 400px;
+    position: relative;
+    left: 60px;
+}
+
+.pir{
+    width: 400px;
+    position: relative;
+    left: 20px;
+}
+
+/* .lor{
+    position: relative;
+    left: 5px;
+} */
+
+.por{
+    position: relative;
+    left: 50px;
+}
+
+.zer{
+    position: relative;
+    left: 65px;
+}
+
+.der{
+    position: relative;
+    left: 45px;
+}
+
+.red{
+    position: relative;
+    left: 20px;
+}
+
+.ber{
+    position: relative;
+    left: 55px;
+}
+
+.jus{
+    position: relative;
+    left: 55px;
+}
+
+.ner{
+    position: relative;
+    left: 70px;
+}
+
+.fus{
+    position: relative;
+    left: 70px;
+}
+
+.ver{
+    position: relative;
+    left: 110px;
+}
+
+.vus{
+    position: relative;
+    left: 110px;
+}
+
+.tel{
+    width: 100%;
+    padding: 5px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 425px;
+    left: 1000px;
+}
+/* 
+h1{
+    color:black;
+    font-weight: bold;
+    text-shadow: 5px 5px;
+} */
